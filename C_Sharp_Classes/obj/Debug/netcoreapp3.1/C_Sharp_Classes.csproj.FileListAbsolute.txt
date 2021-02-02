@@ -1,0 +1,13 @@
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\bin\Debug\netcoreapp3.1\C_Sharp_Classes.exe
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\bin\Debug\netcoreapp3.1\C_Sharp_Classes.deps.json
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\bin\Debug\netcoreapp3.1\C_Sharp_Classes.runtimeconfig.json
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\bin\Debug\netcoreapp3.1\C_Sharp_Classes.runtimeconfig.dev.json
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\bin\Debug\netcoreapp3.1\C_Sharp_Classes.dll
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\bin\Debug\netcoreapp3.1\C_Sharp_Classes.pdb
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.csprojAssemblyReference.cache
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.AssemblyInfoInputs.cache
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.AssemblyInfo.cs
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.csproj.CoreCompileInputs.cache
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.dll
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.pdb
+C:\Users\hossa\repos\C_Sharp_Classes\C_Sharp_Classes\obj\Debug\netcoreapp3.1\C_Sharp_Classes.genruntimeconfig.cache
